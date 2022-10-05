@@ -1,0 +1,16 @@
+{
+  "name": "my-package-t-a-a-a",
+  "main": "./lib/my-package-t-a-a-a",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "my-package-t-a-a-a:toggle"
+  },
+  "repository": "https://github.com/qwerty88T/my-package-t-a-a-a",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
